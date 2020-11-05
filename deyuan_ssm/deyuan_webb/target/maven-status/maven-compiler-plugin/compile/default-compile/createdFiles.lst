@@ -1,0 +1,7 @@
+com\deyuan\controller\OrdersController.class
+com\deyuan\controller\PermissionController.class
+com\deyuan\controller\SysLogController.class
+com\deyuan\controller\UserController.class
+com\deyuan\controller\ProductController.class
+com\deyuan\controller\RoleController.class
+com\deyuan\controller\LogAop.class

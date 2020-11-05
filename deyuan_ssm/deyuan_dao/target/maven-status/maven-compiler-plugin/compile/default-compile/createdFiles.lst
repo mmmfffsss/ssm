@@ -1,0 +1,8 @@
+com\deyuan\dao\PermissionDao.class
+com\deyuan\dao\ProductDao.class
+com\deyuan\dao\RoleDao.class
+com\deyuan\dao\TravellerDao.class
+com\deyuan\dao\UserDao.class
+com\deyuan\dao\OrdersDao.class
+com\deyuan\dao\MemberDao.class
+com\deyuan\dao\SysLogDao.class
